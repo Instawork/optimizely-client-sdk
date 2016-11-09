@@ -21,7 +21,7 @@
   "dependencies": {
     "es6-promise": "^3.3.1",
     "lodash": "^4.13.1",
-    "optimizely-server-sdk":  "^1.0.0"
+    "optimizely-server-sdk": "Instawork/optimizely-server-sdk#replace-json-schema-validator"
   },
   "devDependencies": {
     "chai": "^3.5.0",
